@@ -1,3 +1,4 @@
+package practice;
 public class rec {
     public static int sum(int a){
         if(a>0){

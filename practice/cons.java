@@ -1,3 +1,4 @@
+package practice;
 public class cons {
     private String TAG = "cons";//private
     public static void main(String[] args){

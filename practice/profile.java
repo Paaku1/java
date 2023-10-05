@@ -1,3 +1,4 @@
+package practice;
 public class profile {
     public String name;
     int age;

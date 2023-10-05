@@ -1,3 +1,4 @@
+package practice;
 public class add_method{
     public static void add(int a, int b){
         int x=a+b;
