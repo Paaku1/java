@@ -6,8 +6,6 @@ public class break_ {
                 break;
             }
             System.out.println(i);
-            
         }
-
     }
 }
