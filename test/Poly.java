@@ -1,25 +1,19 @@
 package test;
-
 class Animal {
     void speak() {
         System.out.println("This animal speaks in its own way.");
     }
 }
-
 class Dog extends Animal {
-    @Override
     void speak() {
         System.out.println("Bark");
     }
 }
-
 class Cat extends Animal {
-    @Override
     void speak() {
         System.out.println("Meow");
     }
 }
-
 public class Poly {
     public static void main(String[] args) {
         Animal a = new Animal();

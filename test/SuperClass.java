@@ -1,6 +1,6 @@
 package test;
 
-class SuperClass {
+public class SuperClass {
     String brand = "Google";
 
     public String modelNo(){
